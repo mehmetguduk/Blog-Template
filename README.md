@@ -1,2 +1,2 @@
-# Blog-Template
+# Blog Template
 #### PROJECT LINK
